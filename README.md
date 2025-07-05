@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on multiple fullstack projects
 - 💡 Always learning and sharing what I know
 - 👨‍💻 Frontend & Backend Developer (Fullstack Enthusiast)
-- 🤝 Collaborating on [Animelist](https://cuyanimelist.vercel.app/)
+- 🤝 Collaborating on [WEB SMK](https://osissmkalmasturiyah.42web.io/)
 - 🎁 I love open-source and building useful apps
 - 🌐 Visit my [Portfolio](https://nazrilacil.github.io)
 - 📧 Reach me at [nazrilacil04@gmail.com](mailto:nazrilacil04@gmail.com)
