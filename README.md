@@ -22,7 +22,7 @@
 - 🎁 I love open-source and building useful apps
 - 🌐 Visit my [Portfolio](https://nazrilacil.github.io)
 - 📧 Reach me at [nazrilacil04@gmail.com](mailto:nazrilacil04@gmail.com)
-- ☕ Support me via [Saweria](https://saweria.co/acil04), [Ko-fi](https://ko-fi.com/I2I2VPYED), or [BuyMeACoffee](https://www.buymeacoffee.com/buycoffe)
+- ☕ Support me via [Saweria](https://saweria.co/acil04), [Ko-fi](https://ko-fi.com/nazrilacil), or [BuyMeACoffee](https://www.buymeacoffee.com/buycoffe)
 
 ---
 
